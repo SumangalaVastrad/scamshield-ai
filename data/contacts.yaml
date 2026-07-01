@@ -1,0 +1,10 @@
+national_cybercrime_helpline:
+  number: "[FILL: verify on official government portal]"
+  portal: "[FILL: verify on official government portal]"
+  verified_on: null
+bank_contact:
+  number: "[FILL: use the number printed on your bank card]"
+  verified_on: null
+sancharsaathi_chackshu:
+  portal: "[FILL: verify on official government portal]"
+  verified_on: null
