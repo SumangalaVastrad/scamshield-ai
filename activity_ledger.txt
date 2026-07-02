@@ -2,3 +2,4 @@
 [2026-07-01 21:31:34 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-07-02 10:29:30 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
 [2026-07-02 14:44:34 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
+[2026-07-02 19:23:09 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
