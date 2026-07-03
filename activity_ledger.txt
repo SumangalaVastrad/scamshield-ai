@@ -5,3 +5,4 @@
 [2026-07-02 19:23:09 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-07-03 11:33:56 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
 [2026-07-03 15:04:54 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
+[2026-07-03 21:08:34 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
