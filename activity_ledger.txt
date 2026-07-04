@@ -10,3 +10,4 @@
 [2026-07-04 12:41:36 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-07-04 13:18:09 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-07-04 14:41:20 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
+[2026-07-04 17:40:35 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
