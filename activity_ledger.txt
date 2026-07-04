@@ -8,3 +8,4 @@
 [2026-07-03 21:08:34 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-04 10:17:13 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-04 12:41:36 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
+[2026-07-04 13:18:09 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
