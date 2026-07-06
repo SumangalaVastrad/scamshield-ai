@@ -18,3 +18,4 @@
 [2026-07-05 21:17:42 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-06 12:52:52 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
 [2026-07-06 13:44:26 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
+[2026-07-06 16:20:30 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
