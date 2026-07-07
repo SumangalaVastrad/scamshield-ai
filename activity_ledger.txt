@@ -23,3 +23,4 @@
 [2026-07-06 22:04:11 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-07 11:49:24 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
 [2026-07-07 14:33:36 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
+[2026-07-07 15:07:21 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
