@@ -31,3 +31,4 @@
 [2026-07-08 14:11:32 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-08 18:33:30 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-09 12:04:04 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-07-09 14:19:32 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
