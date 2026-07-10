@@ -37,3 +37,4 @@
 [2026-07-09 21:44:31 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-10 09:26:04 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-10 14:37:36 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
+[2026-07-10 15:13:24 +0530] docs(api): document endpoint payload format for real-time scam scoring API
