@@ -44,3 +44,4 @@
 [2026-07-11 18:36:24 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-11 19:49:10 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
 [2026-07-11 20:13:39 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-07-12 11:58:33 +0530] style(dashboard): format incident alert severity badges and threat category tags
