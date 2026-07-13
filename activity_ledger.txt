@@ -48,3 +48,4 @@
 [2026-07-12 16:09:21 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-07-12 17:40:21 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-12 18:11:26 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
+[2026-07-13 13:31:53 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
