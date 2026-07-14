@@ -53,3 +53,4 @@
 [2026-07-13 17:22:44 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-07-13 18:08:27 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-13 20:38:20 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
+[2026-07-14 12:47:04 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
