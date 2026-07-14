@@ -56,3 +56,4 @@
 [2026-07-14 12:47:04 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
 [2026-07-14 18:38:31 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
 [2026-07-14 20:11:34 +0530] docs(api): document endpoint payload format for real-time scam scoring API
+[2026-07-14 21:41:47 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
