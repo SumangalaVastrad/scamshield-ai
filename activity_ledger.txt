@@ -64,3 +64,4 @@
 [2026-07-16 09:14:36 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-16 11:21:43 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
 [2026-07-16 17:31:34 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
+[2026-07-16 20:25:21 +0530] docs(api): document endpoint payload format for real-time scam scoring API
