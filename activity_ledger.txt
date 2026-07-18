@@ -71,3 +71,4 @@
 [2026-07-17 18:20:15 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-17 20:20:50 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
 [2026-07-17 21:19:46 +0530] style(dashboard): format incident alert severity badges and threat category tags
+[2026-07-18 10:25:58 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
