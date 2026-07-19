@@ -77,3 +77,4 @@
 [2026-07-18 18:52:10 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
 [2026-07-18 22:19:03 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-19 12:36:45 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-07-19 13:18:09 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
