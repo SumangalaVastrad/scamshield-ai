@@ -82,3 +82,4 @@
 [2026-07-19 22:48:38 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-20 09:22:46 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
 [2026-07-20 10:31:07 +0530] style(dashboard): format incident alert severity badges and threat category tags
+[2026-07-20 15:44:50 +0530] style(dashboard): format incident alert severity badges and threat category tags
