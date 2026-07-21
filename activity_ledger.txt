@@ -84,3 +84,4 @@
 [2026-07-20 10:31:07 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-20 15:44:50 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-21 15:31:42 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-07-21 16:13:49 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
