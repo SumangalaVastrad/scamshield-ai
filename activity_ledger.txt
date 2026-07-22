@@ -88,3 +88,4 @@
 [2026-07-21 19:19:21 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-07-22 09:27:57 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-22 11:54:12 +0530] style(dashboard): format incident alert severity badges and threat category tags
+[2026-07-22 12:03:54 +0530] style(dashboard): format incident alert severity badges and threat category tags
