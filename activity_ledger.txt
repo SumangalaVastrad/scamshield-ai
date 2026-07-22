@@ -89,3 +89,4 @@
 [2026-07-22 09:27:57 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-22 11:54:12 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-22 12:03:54 +0530] style(dashboard): format incident alert severity badges and threat category tags
+[2026-07-22 17:26:51 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
