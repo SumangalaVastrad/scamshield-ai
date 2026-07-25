@@ -101,3 +101,4 @@
 [2026-07-24 20:49:13 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-25 10:43:07 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-07-25 14:12:09 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-07-25 15:31:21 +0530] docs(api): document endpoint payload format for real-time scam scoring API
