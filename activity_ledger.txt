@@ -104,3 +104,4 @@
 [2026-07-25 15:31:21 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-07-25 17:16:01 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-26 09:17:42 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
+[2026-07-26 18:24:45 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
