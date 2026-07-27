@@ -111,3 +111,4 @@
 [2026-07-27 13:15:15 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-07-27 20:09:31 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-07-27 21:10:30 +0530] docs(api): document endpoint payload format for real-time scam scoring API
+[2026-07-27 22:48:39 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
