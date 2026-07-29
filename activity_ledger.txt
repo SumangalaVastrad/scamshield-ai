@@ -118,3 +118,4 @@
 [2026-07-29 09:37:35 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
 [2026-07-29 10:10:11 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-07-29 12:21:55 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
+[2026-07-29 17:34:29 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
