@@ -116,3 +116,4 @@
 [2026-07-28 19:56:51 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-07-28 21:06:34 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-29 09:37:35 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
+[2026-07-29 10:10:11 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
