@@ -122,3 +122,4 @@
 [2026-07-29 20:08:44 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
 [2026-07-30 11:37:04 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-07-30 15:36:30 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-07-30 16:44:52 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
