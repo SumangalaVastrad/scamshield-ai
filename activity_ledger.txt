@@ -129,3 +129,4 @@
 [2026-07-31 15:58:05 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-11-01 11:47:42 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
 [2026-11-01 19:27:24 +0530] style(dashboard): format incident alert severity badges and threat category tags
+[2026-11-01 21:58:25 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
