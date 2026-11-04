@@ -137,3 +137,4 @@
 [2026-11-03 21:44:47 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
 [2026-11-03 22:35:28 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-11-04 10:03:52 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
+[2026-11-04 11:43:27 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
