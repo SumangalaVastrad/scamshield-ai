@@ -142,3 +142,4 @@
 [2026-11-04 13:57:57 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
 [2026-11-05 09:26:29 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
 [2026-11-05 12:15:35 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-11-05 19:14:49 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
