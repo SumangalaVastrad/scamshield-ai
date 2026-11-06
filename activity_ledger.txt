@@ -147,3 +147,4 @@
 [2026-11-05 21:04:09 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-11-06 12:57:10 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-11-06 13:43:34 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
+[2026-11-06 14:15:27 +0530] style(dashboard): format incident alert severity badges and threat category tags
