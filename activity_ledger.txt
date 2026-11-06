@@ -148,3 +148,4 @@
 [2026-11-06 12:57:10 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-11-06 13:43:34 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
 [2026-11-06 14:15:27 +0530] style(dashboard): format incident alert severity badges and threat category tags
+[2026-11-06 19:20:18 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
