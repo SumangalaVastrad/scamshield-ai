@@ -151,3 +151,4 @@
 [2026-11-06 19:20:18 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-11-06 21:04:36 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
 [2026-11-07 09:25:51 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
+[2026-11-07 14:34:21 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
