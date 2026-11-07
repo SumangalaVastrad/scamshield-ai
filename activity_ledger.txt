@@ -150,3 +150,4 @@
 [2026-11-06 14:15:27 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-11-06 19:20:18 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-11-06 21:04:36 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
+[2026-11-07 09:25:51 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
