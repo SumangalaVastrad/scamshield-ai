@@ -156,3 +156,4 @@
 [2026-11-07 20:27:10 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-11-08 11:52:30 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
 [2026-11-08 13:04:36 +0530] feat(nlp): fine-tune lightweight DistilRoBERTa model on SMS smishing and fraudulent email corpus
+[2026-11-08 20:27:27 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
