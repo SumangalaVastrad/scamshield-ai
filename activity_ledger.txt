@@ -159,3 +159,4 @@
 [2026-11-08 20:27:27 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-11-09 10:29:55 +0530] perf(latency): optimize inference pipeline to achieve sub-50ms classification per message
 [2026-11-09 14:24:06 +0530] feat(detector): build phishing URL heuristic classifier with entropy and lexical feature extraction
+[2026-11-09 19:35:47 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
