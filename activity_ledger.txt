@@ -167,3 +167,4 @@
 [2026-11-10 22:20:01 +0530] docs(api): document endpoint payload format for real-time scam scoring API
 [2026-11-11 18:14:26 +0530] refactor(pipeline): add rule-based regex pre-filter for urgent financial lure keywords
 [2026-11-11 20:16:36 +0530] feat(webhook): implement emergency alert dispatcher with threat score payload
+[2026-11-11 22:21:50 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
