@@ -171,3 +171,4 @@
 [2026-11-12 13:30:07 +0530] style(dashboard): format incident alert severity badges and threat category tags
 [2026-11-12 14:52:47 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
 [2026-11-12 16:31:49 +0530] test(validation): evaluate false positive rate on legitimate banking notification samples
+[2026-11-12 17:54:21 +0530] fix(tokenizer): handle malformed unicode and homoglyph obfuscations in suspicious text
